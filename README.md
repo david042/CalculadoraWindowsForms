@@ -4,4 +4,4 @@
  
  # Download (Windows 10)
  
- [só extrair e executar | just unzip and run](https://github.com/david042/CalculadoraWindowsForms/releases/download/v1/calculadora.zip)
+ [download](https://github.com/david042/CalculadoraWindowsForms/releases/download/v1/Setup.msi)
